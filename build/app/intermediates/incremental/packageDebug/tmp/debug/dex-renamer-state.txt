@@ -1,0 +1,4 @@
+#Tue Mar 26 22:56:03 ART 2024
+base.0=/Users/lihuelibanez/Development/proyects/test/qr_code_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
